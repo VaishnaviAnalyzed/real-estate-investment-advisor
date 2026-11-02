@@ -1,0 +1,11 @@
+{
+  "rows_in": 250000,
+  "duplicates_removed": 0,
+  "missing_before": 0,
+  "missing_after": 0,
+  "floor_gt_total_fixed": 116304,
+  "outliers_Price_in_Lakhs": 0,
+  "outliers_Size_in_SqFt": 0,
+  "outliers_Price_per_SqFt_INR": 19723,
+  "rows_out": 250000
+}
